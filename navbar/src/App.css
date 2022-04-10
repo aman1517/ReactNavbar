@@ -1,0 +1,32 @@
+.navbar{
+  height: 70px;
+  width: 70%;
+  background-color: black;
+  margin: auto;
+  display: flex;
+  border-radius: 10px;
+  
+  justify-content: space-around;
+}
+
+.flex{
+  display: flex;
+  margin: 5px;
+  width: 20%;
+  justify-content: space-between;
+  
+}
+.flex>p{
+  color:gray;
+}
+h5{
+  color:white;
+}
+button{
+  background-color: rgba(72, 203, 203, 0.66);
+  height: 20px;
+  margin: 20px;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
